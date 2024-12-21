@@ -27,7 +27,7 @@ https://simpleicons.org/
 📝 Feel free to contact me. I am always here ...  [![Github](https://img.shields.io/github/followers/Snehal-Prakash?label=Follow%20Me&style=social)]()
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-SnehalPrakash-blue?logo=Linkedin&logoColor=blue&labelColor=black)]()
 [![Mail](https://img.shields.io/badge/Email-snehalit@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:snehalit@gmail.com)
 <br>
 [![Codepen](https://img.shields.io/badge/Codepen-snehalprakash24-gray?logo=codepen&logoColor=white&labelColor=black)]()
