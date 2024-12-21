@@ -24,14 +24,14 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)]()
+📝 Feel free to contact me. I am always here ...  [![Github](https://img.shields.io/github/followers/Snehal-Prakash?label=Follow%20Me&style=social)]()
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)]()
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:snehalit@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-snehalit@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:snehalit@gmail.com)
 <br>
-[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)]()
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)]()
+[![Codepen](https://img.shields.io/badge/Codepen-snehalprakash24-gray?logo=codepen&logoColor=white&labelColor=black)]()
+[![HackerRank](https://img.shields.io/badge/HackerRank-snehalprakash_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)]()
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Snehal Nakil</strong></samp></h2>
